@@ -1,6 +1,6 @@
 
 This project was crated by `npx create-expo-app -t expo-template-blank-typescript ExpoReactNative` from zero, then added some configurations and documents to 
-help someone wants to simply develop and build apk/aab for learning react-native
+help someone wants to simply develop and build locally apk/aab for learning react-native
 
 
 # Build / Release apk or aab
